@@ -1,6 +1,6 @@
-# 🛡️ Phishing URL Scanner - Brainwave Matrix Internship Project
+# 🛡️ Phishing URL Scanner
 
-This project is part of the Brainwave Matrix Internship. It is a Python-based phishing URL detection tool that uses heuristics and typo-squatting analysis to detect suspicious links.
+This project is a Python-based phishing URL detection tool that uses heuristics and typo-squatting analysis to detect suspicious links.
 
 ## 🔍 Features
 - ✅ Detects typo-squatting (e.g., `faceboook.com`)
